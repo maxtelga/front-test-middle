@@ -16,7 +16,7 @@ Avaliaremos seu conhecimento técnico em HTML, CSS, JavaScript, técnicas de des
 * A pasta de dependências não deve ser adicionadas no pull request
 
 ## Diferenciais
-* Gulp/Browserify/Webpack
+* NPM Scripts/Gulp/Browserify/Webpack
 * ES6/ES7
 * TypeScript
 * Programação funcional
