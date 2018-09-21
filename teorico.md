@@ -12,7 +12,7 @@
 
 ---
 
-2\) Recursos:
+2\) Recursos/Práticas:
 
 2.1) Qual recurso do javascript é mais recomendado para tratar processamentos asíncronos? Justifique.
 
@@ -68,7 +68,7 @@
 
 4\) Análise de código
 
-4.1) Quanto tempo vai demorar para o código a seguir imprimir "finished"? Justifique.
+4.1) Quanto tempo vai demorar para o código a seguir imprimir "finished"? Justifique. (Levando em consideração que `somePromise()` vai retornar uma Promise resolvida)
 ```js
 function doSomething() {
     return new Promise(resolve => {
@@ -97,7 +97,7 @@ somePromise()
 
 [Justificativa]
 
-4.2) O que o código a seguir imprime?
+4.2) O que o código a seguir imprime? (Levando em consideração que `somePromise()` vai retornar uma Promise resolvida)
 ```js
 somePromise()
     .then(() => {
