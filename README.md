@@ -1,6 +1,7 @@
 # Olá candidato
-Bem vindo ao teste para programador Front-End pleno da Hotmilhas!
+Bem vindo ao teste para programador Front-End junior da 123Milhas!
 Avaliaremos seu conhecimento técnico em HTML, CSS, JavaScript, técnicas de desenvolvimento/arquitetura, uso ferramentas auxiliares e lógica.
+O Teste não será simples, mas a ideia é validar até que ponto conseguirá chegar tendo esse problema por resolver!
 
 ## Instruções
 1. Faça um fork deste repositório na sua conta do github
